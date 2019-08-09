@@ -790,7 +790,7 @@ blockquote {
   color: #9fa3a7;
 }
 #header7-3 .mbr-section-text {
-  color: #f39c12;
+  color: #000000;
 }
 #header7-3 .mbr-section-title {
   color: #242424;
@@ -798,9 +798,6 @@ blockquote {
 }
 #header7-3 .mbr-section-text B {
   color: #666666;
-}
-#intro5-7 .mbr-section-title B {
-  color: #ecf0f1;
 }
 
 #menu-10 .hide-buttons .nav-btn {

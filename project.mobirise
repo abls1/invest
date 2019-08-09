@@ -146,7 +146,7 @@
               "color": "#9fa3a7"
             },
             ".mbr-section-text": {
-              "color": "#f39c12"
+              "color": "#000000"
             },
             ".mbr-section-title": {
               "color": "#242424",
@@ -188,8 +188,8 @@
           },
           "title": "<br><br>There is a new way to safely invest",
           "subtitle": "",
-          "text": "<b>Learn more click button below to</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">learn more</a>",
+          "text": "<b>Click button below to:</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page1.html#video2-r\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -262,96 +262,9 @@
     "page1.html": {
       "settings": {
         "title": "Presentation",
-        "order": 8
+        "order": 1
       },
       "components": [
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#ecf0f1"
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-r"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#ecf0f1",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/80vUr8utoeo?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=80vUr8utoeo",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": "0.3"
-          },
-          "title": "<b>Subscribe to our news letter</b>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
-          "form": {
-            "action": "auctionbaylive@aol.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              }
-            }
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "intro5",
-          "_anchor": "intro5-7",
-          "_styles": {
-            ".mbr-section-title B": {
-              "color": "#ecf0f1"
-            }
-          }
-        },
         {
           "_params": {
             "showText": true,
@@ -361,15 +274,17 @@
           },
           "media": {
             "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/image1.jpg",
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
               "width": 1400
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://youtu.be/RBfonsIvAC0",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "Register for an account by going&nbsp;<b>here</b>.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -382,7 +297,7 @@
     "page2.html": {
       "settings": {
         "title": "Our work",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -694,7 +609,7 @@
     "page3.html": {
       "settings": {
         "title": "Our Team",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -783,7 +698,7 @@
     "page4.html": {
       "settings": {
         "title": "Disclaimer",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -837,7 +752,7 @@
     "page5.html": {
       "settings": {
         "title": "Legal stuff",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -993,7 +908,7 @@
     "page6.html": {
       "settings": {
         "title": "Terms of service",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1126,7 +1041,7 @@
     "page8.html": {
       "settings": {
         "title": "Get started",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1202,7 +1117,7 @@
     "page9.html": {
       "settings": {
         "title": "Page 9",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
