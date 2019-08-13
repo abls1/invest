@@ -809,6 +809,7 @@ blockquote {
 }
 #footer2-1c B {
   font-family: 'Roboto Condensed', sans-serif;
+  font-size: 17px;
 }
 
 
@@ -898,6 +899,7 @@ blockquote {
 }
 #footer2-1c B {
   font-family: 'Roboto Condensed', sans-serif;
+  font-size: 17px;
 }
 
 
@@ -981,6 +983,7 @@ blockquote {
 }
 #footer2-1c B {
   font-family: 'Roboto Condensed', sans-serif;
+  font-size: 17px;
 }
 
 
@@ -1060,6 +1063,7 @@ blockquote {
 }
 #footer2-1c B {
   font-family: 'Roboto Condensed', sans-serif;
+  font-size: 17px;
 }
 
 
@@ -1142,6 +1146,7 @@ blockquote {
 }
 #footer2-1c B {
   font-family: 'Roboto Condensed', sans-serif;
+  font-size: 17px;
 }
 
 
@@ -1227,6 +1232,7 @@ blockquote {
 }
 #footer2-1c B {
   font-family: 'Roboto Condensed', sans-serif;
+  font-size: 17px;
 }
 
 
@@ -1309,6 +1315,7 @@ blockquote {
 }
 #footer2-1c B {
   font-family: 'Roboto Condensed', sans-serif;
+  font-size: 17px;
 }
 
 
@@ -1388,90 +1395,12 @@ blockquote {
 }
 #footer2-1c B {
   font-family: 'Roboto Condensed', sans-serif;
+  font-size: 17px;
 }
 
 
-#menu-18 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-18 .navbar-caption {
-  color: #ffffff;
-}
-#menu-18 .navbar-toggler {
-  color: #e67e22;
-}
-#menu-18 .close-icon::before,
-#menu-18 .close-icon::after {
-  background-color: #e67e22;
-}
-#menu-18 .link,
-#menu-18 .dropdown-item {
-  color: #e67e22;
-  font-family: 'Oswald', sans-serif;
-}
-#menu-18 .link {
-  font-size: 0.875rem;
-}
-#menu-18 .dropdown-item,
-#menu-18 .nav-dropdown-sm .link {
-  font-size: 0.948rem;
-}
-#menu-18 .link:hover,
-#menu-18 .link:focus {
-  color: #f39c12;
-}
-#menu-18 .dropdown-item:hover::before,
-#menu-18 .dropdown-item:focus::before {
-  background: #f39c12;
-}
-#menu-18 .dropdown-item:hover,
-#menu-18 .dropdown-item:focus {
-  color: #e67e22;
-}
-#menu-18 .link[aria-expanded="true"],
-#menu-18 .dropdown-menu {
-  background: #000000;
-}
-#menu-18 .nav-dropdown-sm .link:focus,
-#menu-18 .nav-dropdown-sm .link:hover,
-#menu-18 .nav-dropdown-sm .dropdown-item:focus,
-#menu-18 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#menu-18 .navbar,
-#menu-18 .nav-dropdown-sm,
-#menu-18 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-18 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#menu-18 .bg-color.transparent .link {
-  color: #e67e22;
-  transition: none;
-}
-#menu-18 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-18 .bg-color.transparent.opened .link:hover,
-#menu-18 .bg-color.transparent.opened .link:focus {
-  color: #f39c12;
-}
-#menu-18 .link[aria-expanded="true"],
-#menu-18 .dropdown-item[aria-expanded="true"] {
-  color: #f39c12!important;
-}
-#footer2-1c .mbr-section-text {
-  color: #fff;
-}
-#footer2-1c P {
-  color: #000000;
-}
-#footer2-1c B {
-  font-family: 'Roboto Condensed', sans-serif;
-}
-
-
-#progress-bar7-z path[stroke] {
-  stroke: #f39c12 !important;
+#contacts3-16 .form-control-label {
+  color: undefined;
 }
 #menu-18 .hide-buttons .nav-btn {
   display: none !important;
@@ -1549,83 +1478,88 @@ blockquote {
 }
 #footer2-1c B {
   font-family: 'Roboto Condensed', sans-serif;
+  font-size: 17px;
 }
 
 
-#menu-18 .hide-buttons .nav-btn {
+#menu-1d .hide-buttons .nav-btn {
   display: none !important;
 }
-#menu-18 .navbar-caption {
+#menu-1d .navbar-caption {
   color: #ffffff;
 }
-#menu-18 .navbar-toggler {
+#menu-1d .navbar-toggler {
   color: #e67e22;
 }
-#menu-18 .close-icon::before,
-#menu-18 .close-icon::after {
+#menu-1d .close-icon::before,
+#menu-1d .close-icon::after {
   background-color: #e67e22;
 }
-#menu-18 .link,
-#menu-18 .dropdown-item {
+#menu-1d .link,
+#menu-1d .dropdown-item {
   color: #e67e22;
   font-family: 'Oswald', sans-serif;
 }
-#menu-18 .link {
+#menu-1d .link {
   font-size: 0.875rem;
 }
-#menu-18 .dropdown-item,
-#menu-18 .nav-dropdown-sm .link {
+#menu-1d .dropdown-item,
+#menu-1d .nav-dropdown-sm .link {
   font-size: 0.948rem;
 }
-#menu-18 .link:hover,
-#menu-18 .link:focus {
+#menu-1d .link:hover,
+#menu-1d .link:focus {
   color: #f39c12;
 }
-#menu-18 .dropdown-item:hover::before,
-#menu-18 .dropdown-item:focus::before {
+#menu-1d .dropdown-item:hover::before,
+#menu-1d .dropdown-item:focus::before {
   background: #f39c12;
 }
-#menu-18 .dropdown-item:hover,
-#menu-18 .dropdown-item:focus {
+#menu-1d .dropdown-item:hover,
+#menu-1d .dropdown-item:focus {
   color: #e67e22;
 }
-#menu-18 .link[aria-expanded="true"],
-#menu-18 .dropdown-menu {
+#menu-1d .link[aria-expanded="true"],
+#menu-1d .dropdown-menu {
   background: #000000;
 }
-#menu-18 .nav-dropdown-sm .link:focus,
-#menu-18 .nav-dropdown-sm .link:hover,
-#menu-18 .nav-dropdown-sm .dropdown-item:focus,
-#menu-18 .nav-dropdown-sm .dropdown-item:hover {
+#menu-1d .nav-dropdown-sm .link:focus,
+#menu-1d .nav-dropdown-sm .link:hover,
+#menu-1d .nav-dropdown-sm .dropdown-item:focus,
+#menu-1d .nav-dropdown-sm .dropdown-item:hover {
   background: #000000!important;
 }
-#menu-18 .navbar,
-#menu-18 .nav-dropdown-sm,
-#menu-18 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-18 .nav-dropdown-sm .dropdown-menu {
+#menu-1d .navbar,
+#menu-1d .nav-dropdown-sm,
+#menu-1d .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1d .nav-dropdown-sm .dropdown-menu {
   background: #000000;
 }
-#menu-18 .bg-color.transparent .link {
+#menu-1d .bg-color.transparent .link {
   color: #e67e22;
   transition: none;
 }
-#menu-18 .bg-color.transparent.opened .link {
+#menu-1d .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
-#menu-18 .bg-color.transparent.opened .link:hover,
-#menu-18 .bg-color.transparent.opened .link:focus {
+#menu-1d .bg-color.transparent.opened .link:hover,
+#menu-1d .bg-color.transparent.opened .link:focus {
   color: #f39c12;
 }
-#menu-18 .link[aria-expanded="true"],
-#menu-18 .dropdown-item[aria-expanded="true"] {
+#menu-1d .link[aria-expanded="true"],
+#menu-1d .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
-#footer2-1c .mbr-section-text {
+#footer2-1e .mbr-section-text {
   color: #fff;
 }
-#footer2-1c P {
+#footer2-1e P {
   color: #000000;
 }
-#footer2-1c B {
+#footer2-1e B {
   font-family: 'Roboto Condensed', sans-serif;
+  font-size: 17px;
+}
+#table1-1f th {
+  color: #9fa3a7;
 }
